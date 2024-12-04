@@ -51,7 +51,7 @@ After training, the model's predicted solution is compared to the exact solution
 - ![Predicted & Exact Solution](Figure_3.png)
 - **Error Visualization**: The error between the predicted and exact solutions is calculated and displayed.
 - ![Loss](Figure_5.png)
-- ![Gradient Norm](Figure_6.png)
+- ![Gradient Norm](Figure_4.png)
 
 ### 6. Error Metrics
 The maximum error between the predicted and exact solutions is printed after training, providing a measure of the model's performance.
